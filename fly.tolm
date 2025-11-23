@@ -1,8 +1,8 @@
-app = "steam-tracker-bot"
+app = "steam-tracker-treadingt"
 
 [env]
   PORT = "8080"
-  FLY_APP_HOST = "https://steam-tracker-bot.fly.dev"
+  FLY_APP_HOST = "https://steam-tracker-treading.fly.dev"
 
 [[services]]
   internal_port = 8080
